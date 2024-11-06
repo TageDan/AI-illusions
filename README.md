@@ -17,7 +17,8 @@ I will list the steps required for reaching my goals. The time estimates will be
 
 - [X] Create a module for the Fourier Feature Networks (2-4 weeks)
 - [X] Setup a pretrained diffusion model to get the estimated noise given a prompt (1-2 weeks)
-- [ ] Setup the training-pipeline for the illusions (3-6 weeks) // Failed! Will pivot to following the paper on visual anagrams instead of Fourier Feature Networks paper. This makes everything up until now unusable but I will keep it anyways to have something to look back on later.
+- [ ] Setup the training-pipeline for the illusions (3-6 weeks)
+      // Failed! Will pivot to following the paper on visual anagrams instead of Fourier Feature Networks paper. This makes everything up until now unusable but I will keep it anyways to have something to look back on later.
 
 ### New plan
 - [ ] Setup pixel based diffusion model
